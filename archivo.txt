@@ -1,5 +1,4 @@
 hola
 adios
 dsf
-afsd
-dfsa
+Vamos a solucionar el conflicto
